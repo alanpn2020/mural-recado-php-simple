@@ -1,6 +1,6 @@
 #### Mural simples PHP
 
-Utilizado a linguagens PHP. Apenas com funcionalidade de adicionar e excluir. 
+Utilizado a linguagens PHP. Com funcionalidade de adicionar e excluir. 
 
 Assista o video abaixo:
 
